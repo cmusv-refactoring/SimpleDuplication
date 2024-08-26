@@ -4,7 +4,7 @@ import duplication.C2;
 
 public class Main {
     public static void main(String[] args) {
-        double input = 3;
+        double input = 2;
 
         C c = new C1();
         System.out.println("C1 (2) -> " + c.f(input));
