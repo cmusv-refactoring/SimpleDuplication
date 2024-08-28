@@ -7,6 +7,6 @@ public class C2 implements C {
     @Override
     public double f(double y) {
         double x = y * this.a;
-        return x + this.b;
+        return x - this.b;
     }
 }
